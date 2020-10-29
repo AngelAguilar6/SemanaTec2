@@ -9,5 +9,6 @@ Describiendo una empresa con un modelo de IoT exitoso:
   <li>Samuel William Ramírez Ferris</li>
   <li>Hugo Ferrell Vega</li>
   <li>Carlos Alejandro Lopez Amaro</li>
+  <li>Gerardo Zapata Castilla</li>
 </ul>
 
