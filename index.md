@@ -97,7 +97,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 <p> Los almacenes inteligentes utilizan varios sensores, robots y humanos para satisfacer la enorme cantidad de pedidos que se hacen anualmente; todos estos robots son controlados por un sistema en la nube que recibe información de múltiples sensores colocados alrededor del complejo. Ryan Clarke gerente de tecnología robótica aplicada en Amazon dice que es como resolver un sudoku, tienes que evitar congestionamiento ademas de satisfacer los pedidos y el sistema en la nube debe ser capaz de hacer todo esto. 
 
  
-<a id="Apple">
+
 <h3>Apple</h3>
   
   <p><strong><a href="https://support.apple.com/es-mx/guide/watch/apd6b2bcdb19/watchos/">Manual del usuario de Apple Watch</a> Apple</strong> viene siendo una empresa estadounidense que diseña y produce equipos electrónicos, software y servicios en línea. Llega a ser una de las marcas mas conocidas del mundo por su sencillez e innovación. Ellos aplican IOT ya que con la información de pacientes anónimos recopilada de la base de datos de la nube, llegan a ayudar a diagnosticar el Parkinson, controlar el asma, la diabetes y, en general las enfermedades crónicas. </p>
