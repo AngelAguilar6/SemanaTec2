@@ -29,8 +29,8 @@
   </tr>
 </table>
 
-<a id="Oracle"></a>
-<h3>Oracle</h3>
+<a id="Oracle"><h3>Oracle</h3></a>
+
   <p><strong><a href="https://www.oracle.com/mx/index.html">Oracle</a> Corporation</strong> es una compañía especializada en el desarrollo de soluciones de nube y locales. Oracle tiene su sede en la localidad californiana de Redwood City, Estados Unidos.
 Oracle es la primera compañía de software de estereotipos que desarrolla e implementa aplicaciones para empresas cien por ciento activado por Internet a través de toda su línea de productos: base de datos, aplicaciones comerciales y herramientas de desarrollo de aplicaciones y soporte de decisiones. Oracle es el proveedor mundial de software para administración de información a lo largo de todo el mundo, muy por delante de la segunda de su segmento, <em>Software AG.7</em></p>
 
@@ -51,8 +51,8 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
   <p>	Consiste en una plataforma que integra las métricas de los diversos sensores de ambientes de trabajos peligrosos como minas, centrales termo eléctricas y nucleares. Y avisa en tiempo real las posiciones y áreas de los trabajadores, sus lecturas y la información del medio hacia el director del proyecto. De esta manera, se garantiza un mejor con control y seguridad en estos ambientes, al conocer el estado y posición de todos los trabajadores que entran y salen de un área considerada de peligro.</p>
 
 
-<a id="Seat"></a>
-<h3>Seat</h3>
+<a id="Seat"><h3>Seat</h3></a>
+
 
 <p><a href="https://www.seat.mx/compania/historia.html">SEAT, S.A.</a> es una empresa española de automóviles fundada por el extinto Instituto Nacional de Industria el 9 de mayo de 1950.<br> En 2018, SEAT vendió más de 517.000 vehículos. La sociedad exporta el 80 % de sus vehículos y está presente en más de 80 países a través de una red de 1700 concesionarios.</p>
 
@@ -64,8 +64,8 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 El vehículo está conectado a la red gracias a una unidad telemática, Telematic Control Unit (TCU), mediante tecnología C-V2X (Cellular Vehicle to Everything) gracias a un software que posibilita la comunicación entre la red interna del vehículo y el entorno de éste (la plataforma DGT3.0 de la Dirección General de Tráfico, los sistemas de señalización e infraestructura, otros vehículos…) (Seat,2019) </p>
 
 
-<a id="Roomba"></a>
-<h3>Roomba</h3>
+<a id="Roomba"><h3>Roomba</h3></a>
+
   <p><strong><a href="https://www.irobot.mx/irobot-home-app">IRobot</a> Roomba</strong> </p>
 <h4>Problemática</h4>
   <p>La problemática que resuelve es el tiempo que una persona tarda en limpiar toda su casa. La eficiencia en el orden de cualquier hogar, lo cual lleva la comodidad a un nuevo nivel. Da sugerencias automáticas basadas en sus necesidades y las de su familia, ademas crea una alerta de limpieza dependiendo de la temporada. Lleva a tu hogar muy limpio en todo momento sin que te desgastes. (iRobot, 2020) </p>
@@ -76,8 +76,8 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 </p>
  
  
-<a id="Johnnie Walker"></a>
-<h3>Johnnie Walker</h3>
+<a id="Johnnie Walker"><h3>Johnnie Walker</h3></a>
+
   <p><strong><a href="https://www.johnniewalker.com/es-mx/">SmartLabel</a> Johnnie Walker</strong> es una compañía de whisky con sede en Kilmarnock, Escocia.  Es la marca de whisky escocés mezclado más ampliamente distribuida en el mundo, vendida en casi todos los países, con ventas anuales equivalentes a más de 223.7 millones de botellas de 700 ml en 2016. Su modelo de uso de IoT es una etiqueta que les avisa cuando tarda el usuario en abrir la botella de whisky para después enviarles un mensaje de como poder disfrutar mejor su producto. </p>
 <h4>Problemática</h4>
  <p> La problematica que resuelven al hacer estas etiquetas inteligentes es la falta de conocimiento del cliente sobre whisky, ya que no todos los clientes de Jhonnie Walker son expertos en el tema. De esta manera los clientes pueden disfrutar mejor el producto ademas que Jhonnie Walker incremente su satisfacción al cliente. <p>
@@ -85,8 +85,8 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 <h4>Modelo de IoT</h4>
   <p> En marzo de 2015, Jhonnie Walker introdujo una etiqueta inteligente que se incluirá en su emblemático whisky Blue Label. La etiqueta inteligente puede ayudar a los consumidores a comprar el producto, pero la etiqueta inteligente tiene usos que van más allá del punto de venta. La etiqueta puede detectar si la botella está abierta o cerrada, y después de abrir puede enviar información al consumidor sobre la mejor manera de disfrutar el producto. <p>
 
-<a id="Amazon"></a>
-<h3>Amazon</h3> 
+<a id="Amazon"><h3>Amazon</h3> </a>
+ 
   <p><strong><a href="https://https://www.amazon.com">Amazon</a> </strong> es una empresa multinacional estadounidense ubicada en Seattle, Washington; se especializa en comercio electrónico, computación en la nube, transmisión digital e inteligencia artificial. </p>
  
 <h4>Problemática</h4>
@@ -96,8 +96,8 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 <p> Los almacenes inteligentes utilizan varios sensores, robots y humanos para satisfacer la enorme cantidad de pedidos que se hacen anualmente; todos estos robots son controlados por un sistema en la nube que recibe información de múltiples sensores colocados alrededor del complejo. Ryan Clarke gerente de tecnología robótica aplicada en Amazon dice que es como resolver un sudoku, tienes que evitar congestionamiento ademas de satisfacer los pedidos y el sistema en la nube debe ser capaz de hacer todo esto. </p>
 
  
-<a id="Apple"></a> 
-<h3>Apple</h3>
+<a id="Apple"><h3>Apple</h3></a> 
+
   
   <p><strong><a href="https://support.apple.com/es-mx/guide/watch/apd6b2bcdb19/watchos/">Manual del usuario de Apple Watch</a> Apple</strong> viene siendo una empresa estadounidense que diseña y produce equipos electrónicos, software y servicios en línea. Llega a ser una de las marcas mas conocidas del mundo por su sencillez e innovación. Ellos aplican IOT ya que con la información de pacientes anónimos recopilada de la base de datos de la nube, llegan a ayudar a diagnosticar el Parkinson, controlar el asma, la diabetes y, en general las enfermedades crónicas. </p>
 <h4>Problemática</h4>
@@ -108,9 +108,9 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
  
 <img src="s2.jpeg" width="450" height="300">
 
-<a id="Modelo IoT"><a/> 
-  <h3>Modelo IoT seleccionado</h3>
-    <ol type='A'>
+<a id="Modelo IoT"><h3>Modelo IoT seleccionado</h3><a/> 
+  
+   <ol type='A'>
       <li><strong> ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?</strong> Los criterios y metodologias llevadas a cabo fueron basadas en las caracteristicas y necesidades de las personas. Al ver cierta problematica en la gran cantidad de accidentes automovilisticos vieron la oportunidad de implementar una metodologia que abarque una solucion relacionado con la tecnologia y asi llego a ser. A traves del enfasis en las caracteristicas de la salud y seguridad del conductor buscaron la manera viable de implementarlo. </li>
       <li><strong> ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?</strong> En el año 2019 se reportaron 22,800 accidentes mortales y 120,000 accidentes con heridos graves en las carreteras europeas; este sistema de IoT busca a reducir esta problemática. Beneficia principalmente al conductor del auto, ya que, les avisa de irregularidades y situaciones peligrosas en la autopista. También beneficia al ciclista o carro parado ya que les avisa a los coches que están por llegar de su existencia y situación. </li>
       <li><strong> ¿Cuál es la propuesta de valor para estos públicos</strong>? La propuesta de valor principal para el público es poder crear un ambiente de seguridad al momento de manejar. Poder obtener un resguardo electrónico que te pueda avisas en momentos de peligro. Basándose en que lo mas importante en la vida es la seguiridad y salud propia, que mejor que convertir a tu auto en un espacio totalmente seguro.</li>
