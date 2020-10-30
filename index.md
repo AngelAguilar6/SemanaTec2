@@ -171,9 +171,6 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   </ol>
 </a>
  
- {% include youtubePlayer.html id="oy3zpRP0m8k" %}
-
- 
  <h2>Reporte integrador (Colaborativo)</h2>
  <h3> Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub].</h3>
  <p>GitHub se ha convertido en el sistema de control de versiones preferido de desarrolladores, esto se debe a que hace muy fácil y eficiente la colaboración remota entre todos los involucrados. Como es de esperarse se deben establecer convenciones para que la colaboración
