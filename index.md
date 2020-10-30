@@ -158,9 +158,6 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   <li><strong>git reset –hard</strong>
       <p> ~ git reset --hard [<commit>] ~ </p>
           <ul> En este busca poner en el estado que se encontraba en el commit reseteado.</ul>
-  </ul>
-  </ul>
-  </ol>
 
  
  <h2>Reporte integrador (Colaborativo)</h2>
