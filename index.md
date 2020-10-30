@@ -171,6 +171,9 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   </ol>
 </a>
  
+ {% include youtubePlayer.html id="oy3zpRP0m8k" %}
+
+ 
  <h2>Reporte integrador (Colaborativo)</h2>
  <h3> Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub].</h3>
  <p>GitHub se ha convertido en el sistema de control de versiones preferido de desarrolladores, esto se debe a que hace muy fácil y eficiente la colaboración remota entre todos los involucrados. Como es de esperarse se deben establecer convenciones para que la colaboración
@@ -193,7 +196,6 @@ Algunas de las practicas recomendadas son:
   <p>Como funcionaria nuestra app, como sabemos usamos drones que detectan si hay algun problema en el camino y si lo detecta manda un mensaje al conduxtor para que tenga cuidado, con esto en mente diseñamos esta app que va a estar conectada con los drones que cuando detecte que un usuario de la app se encuentra en una zona de peligro su celular se va emitir con la luz de la linerna un patron intermimenten que llame la atencion no solo a la persona de la app sino a la gente que se encuentre a su alrededor por si puede llegar a necesitar ayuda </p>
  
 
-{% include youtubePlayer.html id=page.youtubeId %}
 
 
 <h4> <strong>Referencias consultadas en cada una de las secciones.</strong></h4>
