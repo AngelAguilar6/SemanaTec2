@@ -189,7 +189,7 @@ Algunas de las practicas recomendadas son:
   <li>A la hora de desarrollar cualquier proyecto es probable que quieras hacer múltiples cambios o que surjan varios errores y los trates de arreglar todos a la vez. Se recomienda que te concentres en una sola tarea porque de no ser así generas un “commit” muy grande, esto es problemático porque los demás colaboradores empiezan a perderse en todos los cambios nuevos.</li> 
 </p>
 
-<h3><strong> Video demostrativo y archivos descargables APK y AIA del prototipo de aplicación.</strong></h3>
+<h3><strong>Video demostrativo y archivos descargables APK y AIA del prototipo de aplicación.</strong></h3>
   <p>Como funcionaria nuestra app, como sabemos usamos drones que detectan si hay algun problema en el camino y si lo detecta manda un mensaje al conduxtor para que tenga cuidado, con esto en mente diseñamos esta app que va a estar conectada con los drones que cuando detecte que un usuario de la app se encuentra en una zona de peligro su celular se va emitir con la luz de la linerna un patron intermimenten que llame la atencion no solo a la persona de la app sino a la gente que se encuentre a su alrededor por si puede llegar a necesitar ayuda </p>
   
 <video width="320" height="240" controls>
