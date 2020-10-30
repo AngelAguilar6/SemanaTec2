@@ -161,11 +161,11 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
    <li><strong>reset –mixed</strong>
       <p> ~ git reset --mixed [<commit>] ~ </p>
           <ul> En este los archivos puestos o eliminados que se enceuntran adentro de los commits no reseteados, no seran añadidos.</ul>
-  <p></p>
+  <br>
   <li><strong>git reset –hard</strong>
       <p> ~ git reset --hard [<commit>] ~ </p>
           <ul> En este busca poner en el estado que se encontraba en el commit reseteado.</ul>
-  <p></p>
+  <br>
   </ul>
   </ul>
   </ol>
