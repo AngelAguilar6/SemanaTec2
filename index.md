@@ -188,7 +188,7 @@ Algunas de las practicas recomendadas son:
 <iframe width="420" height="345" src="https://www.youtube.com/embed/V6QsK_PNG40">
 </iframe>
 
- <p><strong><a href="https://drive.google.com/drive/folders/1Pl3pygwFKt7YTfcMm3e7LuBZJqluWUk5?usp=sharing">SmartLabel</a> Drive con los archivos</strong>
+ <p><strong><a href="https://drive.google.com/drive/folders/1Pl3pygwFKt7YTfcMm3e7LuBZJqluWUk5?usp=sharing">APK y AIA</a> Drive con los archivos</strong>
  
    
 <h4> <strong>Referencias consultadas en cada una de las secciones.</strong></h4>
