@@ -194,7 +194,7 @@ Algunas de las practicas recomendadas son:
 
 <h3 id="Descargables">Descargables</h3>
 
-<p><a href="DIYBookClub.aia">Download File</a></p>
+<p><a href="DIYBookClub.aia">Archivo AIA</a></p>
 <p><a href="DIYBookClub.apk"> Archivo APK </a></p>
 
 <h4> <strong>Referencias consultadas en cada una de las secciones.</strong></h4>
