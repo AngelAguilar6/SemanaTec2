@@ -185,6 +185,19 @@ Algunas de las practicas recomendadas son:
 <iframe width="420" height="345" src="https://www.youtube.com/embed/oy3zpRP0m8k">
 </iframe>
 
+ <form action="../../form-result.php" method="post" enctype="multipart/form-data" target="_blank">
+
+  <p>
+
+    
+
+   <input type="file" name="DIYBookClub.aia">
+
+   <input type="submit" value="Enviar datos">
+
+  </p>
+
+</form>
 
 <h4> <strong>Referencias consultadas en cada una de las secciones.</strong></h4>
 <ul>
