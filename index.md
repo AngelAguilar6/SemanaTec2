@@ -87,7 +87,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 
 <a id="Amazon"> 
 <h3>Amazon</h3> 
- <p><strong><a href="https://https://www.amazon.com">Amazon</a> </strong> es una empresa multinacional estadounidense ubicada en Seattle, Washington; se especializa en comercio electrónico, computación en la nube, transmisión digital e inteligencia artificial. </p>
+  <p><strong><a href="https://https://www.amazon.com">Amazon</a> </strong> es una empresa multinacional estadounidense ubicada en Seattle, Washington; se especializa en comercio electrónico, computación en la nube, transmisión digital e inteligencia artificial. </p>
  
 <h4>Problemática</h4>
 <p> Amazon es una empresa muy grande con muchos proyectos de diversa índole que aplican la tecnología IoT, en este caso nos enfocaremos en los almacenes inteligentes. Según el periódico “Nytimes” esta empresa entrega 1.5 millones de paquetes al día en todo el mundo; para poder lograr esta hazaña se necesita de una logística y herramientas muy avanzadas.</p>
