@@ -111,43 +111,36 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 </a>
 
 <a id="Modelo IoT">
-<h3>Modelo IoT seleccionado</h3>
-<ol type='A'>
-  <li><strong> ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?</strong> Los criterios y metodologias llevadas a cabo fueron basadas en las caracteristicas y necesidades de las personas. Al ver cierta problematica en la gran cantidad de accidentes automovilisticos vieron la oportunidad de implementar una metodologia que abarque una solucion relacionado con la tecnologia y asi llego a ser. A traves del enfasis en las caracteristicas de la salud y seguridad del conductor buscaron la manera viable de implementarlo. </li>
-  <li><strong> ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?</strong> En el año 2019 se reportaron 22,800 accidentes mortales y 120,000 accidentes con heridos graves en las carreteras europeas; este sistema de IoT busca a reducir esta problemática. Beneficia principalmente al conductor del auto, ya que, les avisa de irregularidades y situaciones peligrosas en la autopista. También beneficia al ciclista o carro parado ya que les avisa a los coches que están por llegar de su existencia y situación. </li>
-  <li><strong> ¿Cuál es la propuesta de valor para estos públicos</strong>? La propuesta de valor principal para el público es poder crear un ambiente de seguridad al momento de manejar. Poder obtener un resguardo electrónico que te pueda avisas en momentos de peligro. Basándose en que lo mas importante en la vida es la seguiridad y salud propia, que mejor que convertir a tu auto en un espacio totalmente seguro.</li>
-  <li><strong> ¿Cuál es el proceso que involucra a estos públicos?</strong> Estos publicos conviven todo los dias a todo momento, el proceso completo ayuda a ambas partes ya que estamos ayudando a los conductores a que prevengan accidnetes y a los peatones que terminen lastimados, la recoleccion de imagenes, y el analisis de las mismas hacen que todos convivan en un ambiente donde se sigue un cicio mientras el conductor este manejando el dron va a ir recabando datos para evitar que gente salga lastimada.</li>
-  <li><strong> ¿Qué datos se generan y registran en el proceso?</strong> Se capturan imágenes de la carretera. Además, existe comunicación entre la red interna del vehículo y la plataforma DGT3.0 de la Dirección General de Tráfico, los sistemas de señalización e infraestructura y de otros vehículos. De esta forma, se informa el estado del tráfico en tiempo real, de los desvíos, carriles reversibles, aplicación de medidas en protocolos de contaminación, restricciones a la circulación, obras en ejecución y cualquier tipo de incidente que pueda afectar a la circulación. Asimismo, les podrá enviar alertas de la proximidad de ciclistas, la previsión de cortes o congestiones y el riesgo de niebla.</li>
-  <li><strong>¿Qué estándares estan implicados en este modelo y cómo se usan?</strong> Uno de los estándares de IoT es el Data-Distributions Service (DDS). Esto se supone que es un protocolo para la comunicacion en tiempo real entre dispositivos, esto funciona con el dron que tiene una camara que obtiene la imagen, y luego la envia a un servidor donde se analiza y ve si hay algun problema en el camino, tambien el wifi, porque van a mandar una señal de un modo inalambrico por medio de una red movil o ya si nos ponemos mas tecnicos seria el C-V2X que es lo que se usa en los coches autonomos para comunicarse con su entorno.</li>
-</ol>
+  <h3>Modelo IoT seleccionado</h3>
+    <ol type='A'>
+      <li><strong> ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?</strong> Los criterios y metodologias llevadas a cabo fueron basadas en las caracteristicas y necesidades de las personas. Al ver cierta problematica en la gran cantidad de accidentes automovilisticos vieron la oportunidad de implementar una metodologia que abarque una solucion relacionado con la tecnologia y asi llego a ser. A traves del enfasis en las caracteristicas de la salud y seguridad del conductor buscaron la manera viable de implementarlo. </li>
+      <li><strong> ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?</strong> En el año 2019 se reportaron 22,800 accidentes mortales y 120,000 accidentes con heridos graves en las carreteras europeas; este sistema de IoT busca a reducir esta problemática. Beneficia principalmente al conductor del auto, ya que, les avisa de irregularidades y situaciones peligrosas en la autopista. También beneficia al ciclista o carro parado ya que les avisa a los coches que están por llegar de su existencia y situación. </li>
+      <li><strong> ¿Cuál es la propuesta de valor para estos públicos</strong>? La propuesta de valor principal para el público es poder crear un ambiente de seguridad al momento de manejar. Poder obtener un resguardo electrónico que te pueda avisas en momentos de peligro. Basándose en que lo mas importante en la vida es la seguiridad y salud propia, que mejor que convertir a tu auto en un espacio totalmente seguro.</li>
+      <li><strong> ¿Cuál es el proceso que involucra a estos públicos?</strong> Estos publicos conviven todo los dias a todo momento, el proceso completo ayuda a ambas partes ya que estamos ayudando a los conductores a que prevengan accidnetes y a los peatones que terminen lastimados, la recoleccion de imagenes, y el analisis de las mismas hacen que todos convivan en un ambiente donde se sigue un cicio mientras el conductor este manejando el dron va a ir recabando datos para evitar que gente salga lastimada.</li>
+      <li><strong> ¿Qué datos se generan y registran en el proceso?</strong> Se capturan imágenes de la carretera. Además, existe comunicación entre la red interna del vehículo y la plataforma DGT3.0 de la Dirección General de Tráfico, los sistemas de señalización e infraestructura y de otros vehículos. De esta forma, se informa el estado del tráfico en tiempo real, de los desvíos, carriles reversibles, aplicación de medidas en protocolos de contaminación, restricciones a la circulación, obras en ejecución y cualquier tipo de incidente que pueda afectar a la circulación. Asimismo, les podrá enviar alertas de la proximidad de ciclistas, la previsión de cortes o congestiones y el riesgo de niebla.</li>
+      <li><strong>¿Qué estándares estan implicados en este modelo y cómo se usan?</strong> Uno de los estándares de IoT es el Data-Distributions Service (DDS). Esto se supone que es un protocolo para la comunicacion en tiempo real entre dispositivos, esto funciona con el dron que tiene una camara que obtiene la imagen, y luego la envia a un servidor donde se analiza y ve si hay algun problema en el camino, tambien el wifi, porque van a mandar una señal de un modo inalambrico por medio de una red movil o ya si nos ponemos mas tecnicos seria el C-V2X que es lo que se usa en los coches autonomos para comunicarse con su entorno.</li>
+    </ol>
 </a>
 
 <a id="Guia">
 <h2>Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea.</h2>
-<p></p>
      <p> ~ < H(numero)>Texto< /H(numero)> ~ </p>
-        <ul> Este fue utilizado para darle el tamaño a los encabezados, tambien dependiendo del numero que tu le pongas va a ser que tan grande sera el texto 1 viene siendo el mas grande y 6 el mas pequeño.</ul>
-        <p></p>
+        <p> Este fue utilizado para darle el tamaño a los encabezados, tambien dependiendo del numero que tu le pongas va a ser que tan grande sera el texto 1 viene siendo el mas grande y 6 el mas pequeño.</p>
    <p> ~ < li> Texto < /li> ~ </p>
-        <ul> Este fue utilizado para darle el tamaño a los encabezados.</ul>
-     <p></p>
+        <p> Este fue utilizado para darle el tamaño a los encabezados.</p>
    <p> ~ < p>Texto< /p)> ~ </p>
-        <ul> Este fue utilizado para agregar parrafos.</ul>
-     <p></p>
+        <p> Este fue utilizado para agregar parrafos.</p>
    <p> ~ < ol> Texto < /ol> ~ </p>
-        <ul> Este fue utilizado para ordenar listas.</ul>
- <p></p>
+        <p> Este fue utilizado para ordenar listas.</p>
    <p> ~ < strong>Texto< /strong> ~ </p>
-        <ul> Es utilizado para poner en negritas las letras, para hacer enfasis en las partes de los textos.</ul>
-    <p></p>
-        
+        <p> Es utilizado para poner en negritas las letras, para hacer énfasis en las partes de los textos.</p>        
   <p> ~ < ul> Texto< /ul> ~ </p>
-        <ul> Este fue utilizado para hacer una listo no ordenada, sin incisos pero con sangria.</ul>
+        <p> Este fue utilizado para hacer una lista no ordenada, sin incisos pero con sangria.</p>
 
-  <ul><h3>Redo Commits</h3>
+  <h3>Redo Commits</h3>
   
   <p>Hay 4 tipos de redo commits</p>
-  <p></p>
+  
   
   <ol type='1'>
   <li><strong>reset sobre el último commit</strong>
@@ -161,11 +154,10 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
    <li><strong>reset –mixed</strong>
       <p> ~ git reset --mixed [<commit>] ~ </p>
           <ul> En este los archivos puestos o eliminados que se enceuntran adentro de los commits no reseteados, no seran añadidos.</ul>
-  <br>
+  <p></p>
   <li><strong>git reset –hard</strong>
       <p> ~ git reset --hard [<commit>] ~ </p>
           <ul> En este busca poner en el estado que se encontraba en el commit reseteado.</ul>
-  <br>
   </ul>
   </ul>
   </ol>
@@ -179,12 +171,9 @@ Algunas de las practicas recomendadas son:
 <ol> 
   <li>Una vez que un “commit” se combine con una rama default se recomienda fuertemente que no se altere la historia de lo publicado. Se puede modificar, pero al hacerlo se vuelve problemático para los demás colaboradores. Claro que habrá momentos en los que se tenga que modificar algo a lo que ya se le dio “commit” pero se debe hacer con mucho cuidado.</li> 
 
-
   <li>Es mejor trabajar en pedazos pequeños y hacer “commit” frecuentemente en vez de terminar todo el proyecto y hacer un solo “commit”. Si estas trabajando en un bloque de código grande sirve mucho mantener este código actualizado para evitar cualquier conflicto de sincronización.</li> 
 
-
   <li>Es importante hacer comentarios informativos y concisos a la hora de hacer cualquier “commit” en el trabajo. Esto es para que los colaboradores entiendan los cambios nuevos y para que en el futuro tu puedas entender que hiciste. En pocas palabras facilita el trabajo de todo hacer este tipo de comentarios.</li>
-
 
   <li>A la hora de desarrollar cualquier proyecto es probable que quieras hacer múltiples cambios o que surjan varios errores y los trates de arreglar todos a la vez. Se recomienda que te concentres en una sola tarea porque de no ser así generas un “commit” muy grande, esto es problemático porque los demás colaboradores empiezan a perderse en todos los cambios nuevos.</li> 
 </p>
