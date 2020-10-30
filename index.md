@@ -192,9 +192,10 @@ Algunas de las practicas recomendadas son:
 <h3><strong>Video demostrativo y archivos descargables APK y AIA del prototipo de aplicación.</strong></h3>
   <p>Como funcionaria nuestra app, como sabemos usamos drones que detectan si hay algun problema en el camino y si lo detecta manda un mensaje al conduxtor para que tenga cuidado, con esto en mente diseñamos esta app que va a estar conectada con los drones que cuando detecte que un usuario de la app se encuentra en una zona de peligro su celular se va emitir con la luz de la linerna un patron intermimenten que llame la atencion no solo a la persona de la app sino a la gente que se encuentre a su alrededor por si puede llegar a necesitar ayuda </p>
  
-<iframe width="420" height="315"
-src="https://youtu.be/oy3zpRP0m8k">
-</iframe>
+<video width="300" height="520" controls>
+  <source src="App_demo.mp4" type="video/mp4">
+  <source src="App_demo.ogg" type="video/ogg">
+</video>
 
 <h4> <strong>Referencias consultadas en cada una de las secciones.</strong></h4>
   <p>https://juncotic.com/git-reset-y-git-reverse/</p>
