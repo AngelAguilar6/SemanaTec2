@@ -185,6 +185,9 @@ Algunas de las practicas recomendadas son:
 <iframe width="420" height="345" src="https://www.youtube.com/embed/oy3zpRP0m8k">
 </iframe>
 
+<iframe width="420" height="345" src="https://www.youtube.com/embed/V6QsK_PNG40">
+</iframe>
+
 <form method="post" action="accion.php" enctype="multipart/form-data">
 <input name="DIYBookClub.aia" type="file" />
 </form>
