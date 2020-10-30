@@ -172,7 +172,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 </a>
  
  <h2>Reporte integrador (Colaborativo)</h2>
- <h3> Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub].</h3>
+ <h3> Síntesis de buenas prácticas en la industria para el uso de git y commit</h3>
  <p>GitHub se ha convertido en el sistema de control de versiones preferido de desarrolladores, esto se debe a que hace muy fácil y eficiente la colaboración remota entre todos los involucrados. Como es de esperarse se deben establecer convenciones para que la colaboración
 
 Algunas de las practicas recomendadas son:
@@ -195,10 +195,6 @@ Algunas de las practicas recomendadas son:
 <iframe width="420" height="345" src="https://www.youtube.com/embed/oy3zpRP0m8k">
 </iframe>
 
-<video width="320" height="240" controls>
-  <source src="App_demo.mp4" type="video/mp4">
-  <source src="App_demo.ogg" type="video/ogg">
-</video>
 
 <h4> <strong>Referencias consultadas en cada una de las secciones.</strong></h4>
   <p>https://juncotic.com/git-reset-y-git-reverse/</p>
