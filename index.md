@@ -108,7 +108,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
  
 <img src="s2.jpeg" width="450" height="300">
 
-<a id="Modelo IoT"> 
+<a id="Modelo IoT"><a/> 
   <h3>Modelo IoT seleccionado</h3>
     <ol type='A'>
       <li><strong> ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?</strong> Los criterios y metodologias llevadas a cabo fueron basadas en las caracteristicas y necesidades de las personas. Al ver cierta problematica en la gran cantidad de accidentes automovilisticos vieron la oportunidad de implementar una metodologia que abarque una solucion relacionado con la tecnologia y asi llego a ser. A traves del enfasis en las caracteristicas de la salud y seguridad del conductor buscaron la manera viable de implementarlo. </li>
@@ -120,7 +120,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
     </ol>
 
 
-<a id="Guia"> 
+<a id="Guia"><a/> 
 <h2>Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea.</h2>
      <p> ~ < H(numero)>Texto< /H(numero)> ~ </p>
         <p> Este fue utilizado para darle el tamaño a los encabezados, tambien dependiendo del numero que tu le pongas va a ser que tan grande sera el texto 1 viene siendo el mas grande y 6 el mas pequeño.</p>
