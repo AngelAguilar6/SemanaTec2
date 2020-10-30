@@ -185,12 +185,14 @@ Algunas de las practicas recomendadas son:
 <iframe width="420" height="345" src="https://www.youtube.com/embed/oy3zpRP0m8k">
 </iframe>
 
-
-</form>
-<form enctype="multipart/form-data" action="uploader.php" method="POST">
+<form method="post" action="accion.php" enctype="multipart/form-data">
 <input name="DIYBookClub.aia" type="file" />
-<input type="submit" value="Subir archivo" />
 </form>
+
+<form method="post" action="accion.php" enctype="multipart/form-data">
+<input name="DIYBookClub.apk" type="file" />
+</form>
+
 
 <h4> <strong>Referencias consultadas en cada una de las secciones.</strong></h4>
 <ul>
