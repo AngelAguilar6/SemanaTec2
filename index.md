@@ -49,7 +49,7 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
   
   <h4>Oracle Human Capital Management</h4>
   <p>	Consiste en una plataforma que integra las métricas de los diversos sensores de ambientes de trabajos peligrosos como minas, centrales termo eléctricas y nucleares. Y avisa en tiempo real las posiciones y áreas de los trabajadores, sus lecturas y la información del medio hacia el director del proyecto. De esta manera, se garantiza un mejor con control y seguridad en estos ambientes, al conocer el estado y posición de todos los trabajadores que entran y salen de un área considerada de peligro.</p>
-</a>
+
 
 <a id="Seat">
 <h3>Seat</h3>
@@ -62,7 +62,7 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 <p>Es un dron con cámara que captura imágenes de lo que sucede en la carretera y la envía en tiempo real a través de una red movil a un servidor que estará conectado con la plataforma DGT 3.0, y que procesa la imagen, detecta si hay una bicicleta o un vehículo parado en la carretera y envía una alarma al coche conectado de SEAT.
 
 El vehículo está conectado a la red gracias a una unidad telemática, Telematic Control Unit (TCU), mediante tecnología C-V2X (Cellular Vehicle to Everything) gracias a un software que posibilita la comunicación entre la red interna del vehículo y el entorno de éste (la plataforma DGT3.0 de la Dirección General de Tráfico, los sistemas de señalización e infraestructura, otros vehículos…) (Seat,2019) </p>
-</a>
+
 
 <a id="Roomba">
 <h3>Roomba</h3>
@@ -74,7 +74,7 @@ El vehículo está conectado a la red gracias a una unidad telemática, Telemati
 
 Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intuitiva. Esta trace un mapa de su hogar con zonas de limpieza personalizadas para poder enviar a sus robots directamente a la suciedad. Estas crea recomendaciones personalizadas lo cual brindan la capacidad de aumentar y disminuir su limpieza y estar un paso por delante de la suciedad.
 </p>
-</a>  
+ 
  
 <a id="Johnnie Walker"> 
 <h3>Johnnie Walker</h3>
@@ -84,7 +84,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
  
 <h4>Modelo de IoT</h4>
   <p> En marzo de 2015, Jhonnie Walker introdujo una etiqueta inteligente que se incluirá en su emblemático whisky Blue Label. La etiqueta inteligente puede ayudar a los consumidores a comprar el producto, pero la etiqueta inteligente tiene usos que van más allá del punto de venta. La etiqueta puede detectar si la botella está abierta o cerrada, y después de abrir puede enviar información al consumidor sobre la mejor manera de disfrutar el producto. <p>
-</a>
+
 
 <a id="Amazon">
 <h3>Amazon</h3> 
@@ -95,7 +95,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 
 <h4>Modelo de IoT</h4>
 <p> Los almacenes inteligentes utilizan varios sensores, robots y humanos para satisfacer la enorme cantidad de pedidos que se hacen anualmente; todos estos robots son controlados por un sistema en la nube que recibe información de múltiples sensores colocados alrededor del complejo. Ryan Clarke gerente de tecnología robótica aplicada en Amazon dice que es como resolver un sudoku, tienes que evitar congestionamiento ademas de satisfacer los pedidos y el sistema en la nube debe ser capaz de hacer todo esto. 
-</a>
+
  
 <a id="Apple">
 <h3>Apple</h3>
@@ -108,7 +108,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   <p> El modelo surge para poder ayudar a las personas a tener mas conciencia sobre su salud, desde ayudar a diagnosticar hasta recordatorios de tomar algun medicamento o tener un tipo de control. Con el Applewatch podras tener mas conocimiento sobre tu salud y poder prevenir enfermedades <p>
  
 <img src="s2.jpeg" width="450" height="300">
-</a>
+
 
 <a id="Modelo IoT">
   <h3>Modelo IoT seleccionado</h3>
@@ -120,7 +120,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
       <li><strong> ¿Qué datos se generan y registran en el proceso?</strong> Se capturan imágenes de la carretera. Además, existe comunicación entre la red interna del vehículo y la plataforma DGT3.0 de la Dirección General de Tráfico, los sistemas de señalización e infraestructura y de otros vehículos. De esta forma, se informa el estado del tráfico en tiempo real, de los desvíos, carriles reversibles, aplicación de medidas en protocolos de contaminación, restricciones a la circulación, obras en ejecución y cualquier tipo de incidente que pueda afectar a la circulación. Asimismo, les podrá enviar alertas de la proximidad de ciclistas, la previsión de cortes o congestiones y el riesgo de niebla.</li>
       <li><strong>¿Qué estándares estan implicados en este modelo y cómo se usan?</strong> Uno de los estándares de IoT es el Data-Distributions Service (DDS). Esto se supone que es un protocolo para la comunicacion en tiempo real entre dispositivos, esto funciona con el dron que tiene una camara que obtiene la imagen, y luego la envia a un servidor donde se analiza y ve si hay algun problema en el camino, tambien el wifi, porque van a mandar una señal de un modo inalambrico por medio de una red movil o ya si nos ponemos mas tecnicos seria el C-V2X que es lo que se usa en los coches autonomos para comunicarse con su entorno.</li>
     </ol>
-</a>
+
 
 <a id="Guia">
 <h2>Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea.</h2>
@@ -161,7 +161,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   </ul>
   </ul>
   </ol>
-</a>
+
  
  <h2>Reporte integrador (Colaborativo)</h2>
  <h3> Síntesis de buenas prácticas en la industria para el uso de git y commit</h3>
