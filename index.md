@@ -169,7 +169,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
  <h2 id="Reporte">Reporte integrador (Colaborativo)</h2>
  
  <h3> Síntesis de buenas prácticas en la industria para el uso de git y commit</h3>
- <p>GitHub se ha convertido en el sistema de control de versiones preferido de desarrolladores, esto se debe a que hace muy fácil y eficiente la colaboración remota entre todos los involucrados. Como es de esperarse se deben establecer convenciones para que la colaboración sea clara y competente.
+ <p>GitHub se ha convertido en el sistema de control de versiones preferido de desarrolladores, esto se debe a que hace muy fácil y eficiente la colaboración remota entre todos los involucrados. Como es de esperarse se deben establecer convenciones para que la colaboración
 
 Algunas de las practicas recomendadas son:
 <ol> 
@@ -191,8 +191,9 @@ Algunas de las practicas recomendadas son:
 <iframe width="420" height="345" src="https://www.youtube.com/embed/V6QsK_PNG40">
 </iframe>
 
-<a id="Descargables">
-<h3>Descargables</h3>
+
+<h3 id="Descargables">Descargables</h3>
+
 <p><a href="DIYBookClub.aia">Download File</a></p>
 <p><a href="DIYBookClub.apk"> Archivo APK </a></p>
 
@@ -202,8 +203,5 @@ Algunas de las practicas recomendadas son:
   <li>https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99</li>
   <li>https://deepsource.io/blog/git-best-practices/</li>
   <li>https://standards.ieee.org/initiatives/iot/index.html</li>
-  <li>https://www.wired.com/story/amazon-warehouse-robots/</li>
-  <li>https://opensource.com/article/20/7/git-best-practices</li>
-  
 </ul>
 
