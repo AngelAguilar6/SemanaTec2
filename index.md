@@ -170,16 +170,9 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   </ul>
   </ol>
 </a>
- <p><h2>Reporte integrador (Colaborativo)</h2></p>
- <p></p>
- <p></p>
- <ul><strong>1. Retroalimentación proporcionada por el Profesor.</strong></ul>
- <p></p>
- <p></p>
- <ul><strong>2. Tabla de contenido con hipervínculos a cada una de las secciones..</strong></ul>
  
- <p></p>
- <ul><strong>3. Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub].</strong></ul>
+ <h2>Reporte integrador (Colaborativo)</h2>
+ <ul><strong> Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub].</strong></ul>
  <p>GitHub se ha convertido en el sistema de control de versiones preferido de desarrolladores, esto se debe a que hace muy fácil y eficiente la colaboración remota entre todos los involucrados. Como es de esperarse se deben establecer convenciones para que la colaboración
 
 Algunas de las practicas recomendadas son:
@@ -196,10 +189,14 @@ Algunas de las practicas recomendadas son:
 
 4. A la hora de desarrollar cualquier proyecto es probable que quieras hacer múltiples cambios o que surjan varios errores y los trates de arreglar todos a la vez. Se recomienda que te concentres en una sola tarea porque de no ser así generas un “commit” muy grande, esto es problemático porque los demás colaboradores empiezan a perderse en todos los cambios nuevos. 
 </p>
- <p></p>
- <p></p>
- <ul><strong>4. Video demostrativo, párrafo explicativo, y archivos descargables APK y AIA de su pretotipo funcional de aplicación computacional.</strong></ul>
+
+<h3><strong> Video demostrativo y archivos descargables APK y AIA del prototipo de aplicación.</strong></h3>
   <p>Como funcionaria nuestra app, como sabemos usamos drones que detectan si hay algun problema en el camino y si lo detecta manda un mensaje al conduxtor para que tenga cuidado, con esto en mente diseñamos esta app que va a estar conectada con los drones que cuando detecte que un usuario de la app se encuentra en una zona de peligro su celular se va emitir con la luz de la linerna un patron intermimenten que llame la atencion no solo a la persona de la app sino a la gente que se encuentre a su alrededor por si puede llegar a necesitar ayuda </p>
+  
+<video src="" width="320" height="240" controls>
+  Video not supported
+</video>
+
 
 
 <p> <strong>5. Referencias consultadas en cada una de las secciones.</strong></p>
