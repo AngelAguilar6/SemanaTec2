@@ -188,4 +188,7 @@ Algunas de las practicas recomendadas son:
 
 <h4> <strong>Referencias consultadas en cada una de las secciones.</strong></h4>
   <p>https://juncotic.com/git-reset-y-git-reverse/</p>
+  <p>https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99</p>
+  <p>https://deepsource.io/blog/git-best-practices/</p>
+  <p>https://standards.ieee.org/initiatives/iot/index.html</p>
 
