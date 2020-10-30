@@ -85,7 +85,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 <h4>Modelo de IoT</h4>
   <p> En marzo de 2015, Jhonnie Walker introdujo una etiqueta inteligente que se incluirá en su emblemático whisky Blue Label. La etiqueta inteligente puede ayudar a los consumidores a comprar el producto, pero la etiqueta inteligente tiene usos que van más allá del punto de venta. La etiqueta puede detectar si la botella está abierta o cerrada, y después de abrir puede enviar información al consumidor sobre la mejor manera de disfrutar el producto. <p>
 
-<a id="Amazon"> 
+
 <h3>Amazon</h3> 
   <p><strong><a href="https://https://www.amazon.com">Amazon</a> </strong> es una empresa multinacional estadounidense ubicada en Seattle, Washington; se especializa en comercio electrónico, computación en la nube, transmisión digital e inteligencia artificial. </p>
  
