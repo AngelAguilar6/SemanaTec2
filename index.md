@@ -172,22 +172,21 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 </a>
  
  <h2>Reporte integrador (Colaborativo)</h2>
- <ul><strong> Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub].</strong></ul>
+ <h3> Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub].</h3>
  <p>GitHub se ha convertido en el sistema de control de versiones preferido de desarrolladores, esto se debe a que hace muy fácil y eficiente la colaboración remota entre todos los involucrados. Como es de esperarse se deben establecer convenciones para que la colaboración
 
 Algunas de las practicas recomendadas son:
-
- 
-1. Una vez que un “commit” se combine con una rama default se recomienda fuertemente que no se altere la historia de lo publicado. Se puede modificar, pero al hacerlo se vuelve problemático para los demás colaboradores. Claro que habrá momentos en los que se tenga que modificar algo a lo que ya se le dio “commit” pero se debe hacer con mucho cuidado. 
-
-
-2. Es mejor trabajar en pedazos pequeños y hacer “commit” frecuentemente en vez de terminar todo el proyecto y hacer un solo “commit”. Si estas trabajando en un bloque de código grande sirve mucho mantener este código actualizado para evitar cualquier conflicto de sincronización. 
+<ol> 
+  <li>Una vez que un “commit” se combine con una rama default se recomienda fuertemente que no se altere la historia de lo publicado. Se puede modificar, pero al hacerlo se vuelve problemático para los demás colaboradores. Claro que habrá momentos en los que se tenga que modificar algo a lo que ya se le dio “commit” pero se debe hacer con mucho cuidado.</li> 
 
 
-3. Es importante hacer comentarios informativos y concisos a la hora de hacer cualquier “commit” en el trabajo. Esto es para que los colaboradores entiendan los cambios nuevos y para que en el futuro tu puedas entender que hiciste. En pocas palabras facilita el trabajo de todo hacer este tipo de comentarios.
+  <li>Es mejor trabajar en pedazos pequeños y hacer “commit” frecuentemente en vez de terminar todo el proyecto y hacer un solo “commit”. Si estas trabajando en un bloque de código grande sirve mucho mantener este código actualizado para evitar cualquier conflicto de sincronización.</li> 
 
 
-4. A la hora de desarrollar cualquier proyecto es probable que quieras hacer múltiples cambios o que surjan varios errores y los trates de arreglar todos a la vez. Se recomienda que te concentres en una sola tarea porque de no ser así generas un “commit” muy grande, esto es problemático porque los demás colaboradores empiezan a perderse en todos los cambios nuevos. 
+  <li>Es importante hacer comentarios informativos y concisos a la hora de hacer cualquier “commit” en el trabajo. Esto es para que los colaboradores entiendan los cambios nuevos y para que en el futuro tu puedas entender que hiciste. En pocas palabras facilita el trabajo de todo hacer este tipo de comentarios.</li>
+
+
+  <li>A la hora de desarrollar cualquier proyecto es probable que quieras hacer múltiples cambios o que surjan varios errores y los trates de arreglar todos a la vez. Se recomienda que te concentres en una sola tarea porque de no ser así generas un “commit” muy grande, esto es problemático porque los demás colaboradores empiezan a perderse en todos los cambios nuevos.</li> 
 </p>
 
 <h3><strong> Video demostrativo y archivos descargables APK y AIA del prototipo de aplicación.</strong></h3>
@@ -197,8 +196,10 @@ Algunas de las practicas recomendadas son:
   <source src="https://youtu.be/oy3zpRP0m8k" type=video/mp4>
 </video>
 
+<video src="App_demo.mp4" width="320" height="200" controls preload></video>
 
 
-<p> <strong>5. Referencias consultadas en cada una de las secciones.</strong></p>
+
+<h4> <strong>Referencias consultadas en cada una de las secciones.</strong></h4>
   <p>https://juncotic.com/git-reset-y-git-reverse/</p>
 
