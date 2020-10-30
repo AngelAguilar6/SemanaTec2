@@ -120,7 +120,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
     </ol>
 
 
-<a id="Guía rápida introductoria a GitHub">
+<a id="Guia">
 <h2>Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea.</h2>
      <p> ~ < H(numero)>Texto< /H(numero)> ~ </p>
         <p> Este fue utilizado para darle el tamaño a los encabezados, tambien dependiendo del numero que tu le pongas va a ser que tan grande sera el texto 1 viene siendo el mas grande y 6 el mas pequeño.</p>
