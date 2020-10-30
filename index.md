@@ -180,15 +180,17 @@ Algunas de las practicas recomendadas son:
 
 
 <h3><strong>Video demostrativo y archivos descargables APK y AIA del prototipo de aplicación.</strong></h3>
-  <p>Como funcionaria nuestra app, como sabemos usamos drones que detectan si hay algun problema en el camino y si lo detecta manda un mensaje al conduxtor para que tenga cuidado, con esto en mente diseñamos esta app que va a estar conectada con los drones que cuando detecte que un usuario de la app se encuentra en una zona de peligro su celular se va emitir con la luz de la linerna un patron intermimenten que llame la atencion no solo a la persona de la app sino a la gente que se encuentre a su alrededor por si puede llegar a necesitar ayuda </p>
+  <p><strong>¿Cómo funcionaría nuestra app?</strong> Como sabemos se utilizan drones para detectar posibles problemas en el camino. En caso de detectar alguno, manda un mensaje al conductor para que extreme precauciones. Con esto en mente, diseñamos la app para estar conectada con los drones, de manera que cuando detecte que un usuario se encuentra en una zona de peligro su celular va emitir con la luz de la linterna un patrón intermitente que llame la atención de la gente que se encuentre a su alrededor, no solo conductores, por si puede llegar a necesitar ayuda. </p>
  
 <iframe width="420" height="345" src="https://www.youtube.com/embed/oy3zpRP0m8k">
 </iframe>
 
 
 <h4> <strong>Referencias consultadas en cada una de las secciones.</strong></h4>
-  <p>https://juncotic.com/git-reset-y-git-reverse/</p>
-  <p>https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99</p>
-  <p>https://deepsource.io/blog/git-best-practices/</p>
-  <p>https://standards.ieee.org/initiatives/iot/index.html</p>
+<ul>
+  <li>https://juncotic.com/git-reset-y-git-reverse/</li>
+  <li>https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99</li>
+  <li>https://deepsource.io/blog/git-best-practices/</li>
+  <li>https://standards.ieee.org/initiatives/iot/index.html</li>
+</ul>
 
