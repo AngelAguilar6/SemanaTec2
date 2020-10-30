@@ -188,14 +188,9 @@ Algunas de las practicas recomendadas son:
 <iframe width="420" height="345" src="https://www.youtube.com/embed/V6QsK_PNG40">
 </iframe>
 
-<form method="post" action="accion.php" enctype="multipart/form-data">
-<input name="DIYBookClub.aia" type="file" />
-</form>
 
-<form method="post" action="accion.php" enctype="multipart/form-data">
-<input name="DIYBookClub.apk" type="file" />
-</form>
-
+<a href="DIYBookClub.aia">Download File</a>
+<a href="DIYBookClub.apk"> Archivo APK </a>
 
 <h4> <strong>Referencias consultadas en cada una de las secciones.</strong></h4>
 <ul>
