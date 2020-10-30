@@ -195,6 +195,11 @@ Algunas de las practicas recomendadas son:
 <iframe width="420" height="345" src="https://www.youtube.com/embed/oy3zpRP0m8k">
 </iframe>
 
+<video width="320" height="240" controls>
+  <source src="App_demo.mp4" type="video/mp4">
+  <source src="App_demo.ogg" type="video/ogg">
+</video>
+
 <h4> <strong>Referencias consultadas en cada una de las secciones.</strong></h4>
   <p>https://juncotic.com/git-reset-y-git-reverse/</p>
 
