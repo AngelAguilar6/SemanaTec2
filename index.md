@@ -27,6 +27,9 @@
   <tr>
     <td><a href="#Guia">Guía rápida introductoria a GitHub</a></td>
   </tr>
+  <tr>
+    <td><a href="#Reporte">Reporte integrador (Colaborativo)</a></td>
+  </tr>
 </table>
 
 <h2 id="Oracle">Oracle</h2>
@@ -160,7 +163,8 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
           <ul> En este busca poner en el estado que se encontraba en el commit reseteado.</ul>
 
  
- <h2>Reporte integrador (Colaborativo)</h2>
+ <h2 id="Reporte">Reporte integrador (Colaborativo)</h2>
+ 
  <h3> Síntesis de buenas prácticas en la industria para el uso de git y commit</h3>
  <p>GitHub se ha convertido en el sistema de control de versiones preferido de desarrolladores, esto se debe a que hace muy fácil y eficiente la colaboración remota entre todos los involucrados. Como es de esperarse se deben establecer convenciones para que la colaboración
 
